@@ -72,7 +72,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
-## Nest Target
+## Next Target
 
 - Work with security while deoploying to server
 - Work with cluster mode through PM2
